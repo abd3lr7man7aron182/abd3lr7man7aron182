@@ -19,7 +19,6 @@ I'm passionate about building **scalable web applications**, exploring **AI/ML**
 
 **Databases**  
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Entity Framework Core](https://img.shields.io/badge/EF%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
 **Tools & Platforms**  
@@ -28,6 +27,7 @@ I'm passionate about building **scalable web applications**, exploring **AI/ML**
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=white)
 
 ---
 
@@ -48,7 +48,7 @@ I'm passionate about building **scalable web applications**, exploring **AI/ML**
 ## 📈 GitHub Stats
 
 ![Abdelrhman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abd3lr7man7aron182&show_icons=true&theme=radical)  
-![Top Languages](https://img.shields.io/badge/Top%20Languages-See%20Stats-blue)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abd3lr7man7aron182&layout=compact&theme=radical)
 
 ---
 
