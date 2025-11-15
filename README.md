@@ -40,7 +40,6 @@ I'm passionate about building **scalable web applications**, exploring **AI/ML**
 | **Library Management System** | Console application to manage books, members, and transactions. | C#, EF Core, Console App | ✅ Completed |
 | **Instant Money Transfers 24/7** | Web app similar to InstaPay Egypt for instant bank transfers and account management. | C#, .NET MVC, SQL Server | ✅ Completed |
 | **AI Feature Selection** | Genetic Algorithm project for selecting features to train decision trees. | Python, DEAP, AI | ✅ Completed |
-| **Bookstore Website** | Frontend & backend web app for managing books with filtering & price search. | HTML, CSS, JS, C# | ✅ Completed |
 
 > More projects: [GitHub Repositories](https://github.com/abd3lr7man7aron182)
 
@@ -49,7 +48,7 @@ I'm passionate about building **scalable web applications**, exploring **AI/ML**
 ## 📈 GitHub Stats
 
 ![Abdelrhman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abd3lr7man7aron182&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abd3lr7man7aron182&layout=compact&theme=radical)
+![Top Languages](https://img.shields.io/badge/Top%20Languages-See%20Stats-blue)
 
 ---
 
