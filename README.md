@@ -47,7 +47,12 @@ I'm passionate about building **scalable web applications**, exploring **AI/ML**
 
 ## 📈 GitHub Stats
 
-![Abdelrhman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abd3lr7man7aron182&show_icons=true&theme=radical)  
+![Abdelrhman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abd3lr7man7aron182&show_icons=true&theme=radical)
+
+---
+
+## 🖥️ Most Used Languages
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abd3lr7man7aron182&layout=compact&theme=radical)
 
 ---
