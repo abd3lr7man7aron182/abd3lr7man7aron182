@@ -12,6 +12,7 @@ I'm passionate about building **scalable web applications**, exploring **AI/ML**
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -19,6 +20,7 @@ I'm passionate about building **scalable web applications**, exploring **AI/ML**
 **Databases**  
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Entity Framework Core](https://img.shields.io/badge/EF%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
 **Tools & Platforms**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -31,12 +33,14 @@ I'm passionate about building **scalable web applications**, exploring **AI/ML**
 
 ## 📂 Featured Projects
 
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| **Instant Money Transfers 24/7** | Web app similar to InstaPay Egypt for instant bank transfers and account management. | C#, .NET MVC, SQL Server |
-| **AI Feature Selection** | Genetic Algorithm project for selecting features to train decision trees. | Python, DEAP, AI |
-| **Bookstore Website** | Frontend & backend web app for managing books with filtering & price search. | HTML, CSS, JS, C# |
-| **C# OOP Assignments** | Custom classes, constructors, operator overloading, polymorphism, and more. | C# |
+| Project | Description | Tech Stack | Status |
+|---------|-------------|------------|--------|
+| **Gym Management System** | MVC web app to manage gym members, subscriptions, and schedules. | C#, .NET MVC, SQL Server | ✅ Completed |
+| **E-Commerce API** | Backend API for online store, includes products, orders, and users. | C#, .NET Web API, EF Core | ⚙️ In Progress |
+| **Library Management System** | Console application to manage books, members, and transactions. | C#, EF Core, Console App | ✅ Completed |
+| **Instant Money Transfers 24/7** | Web app similar to InstaPay Egypt for instant bank transfers and account management. | C#, .NET MVC, SQL Server | ✅ Completed |
+| **AI Feature Selection** | Genetic Algorithm project for selecting features to train decision trees. | Python, DEAP, AI | ✅ Completed |
+| **Bookstore Website** | Frontend & backend web app for managing books with filtering & price search. | HTML, CSS, JS, C# | ✅ Completed |
 
 > More projects: [GitHub Repositories](https://github.com/abd3lr7man7aron182)
 
