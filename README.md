@@ -50,13 +50,24 @@ I'm passionate about building **scalable web applications**, exploring **AI/ML**
 
 ## 📈 GitHub Stats
 
-![Abdelrhman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abd3lr7man7aron182&show_icons=true&theme=radical)
+![Abdelrhman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abd3lr7man7aron182&show_icons=true&theme=radical&count_private=true)
 
 ---
 
 ## 🖥️ Most Used Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abd3lr7man7aron182&layout=compact&theme=radical)
+
+---
+
+## 🎯 Fun Animated Section
+
+<p align="center">
+  <img src="https://github.com/abd3lr7man7aron182/abd3lr7man7aron182/blob/main/animations/coding-cat.gif" width="200" />
+  <img src="https://github.com/abd3lr7man7aron182/abd3lr7man7aron182/blob/main/animations/rocket.gif" width="200" />
+</p>
+
+> Keep coding 🚀 and exploring AI 🤖
 
 ---
 
