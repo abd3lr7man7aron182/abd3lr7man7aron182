@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&weight=600&size=30&duration=3000&pause=1200&color=1E90FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Abdelrhman+Haron;Backend+Developer+(.NET+%7C+C%23);AI+%26+Web+Apps+Enthusiast;Welcome+to+my+GitHub+Profile!+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&weight=600&size=30&duration=3000&pause=1200&color=1E90FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Abdelrhman+Haron;Backend+Developer+(.NET+%7C+C%23);Welcome+to+my+GitHub+Profile!+🚀" />
 </p>
 
 ---
