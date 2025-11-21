@@ -1,82 +1,87 @@
-# 👋 Hi, I'm Abdelrhman Haron
-
-### 💻 Backend Developer | .NET & C# | AI & Web Apps Enthusiast
-
-I'm passionate about building **scalable web applications**, exploring **AI/ML**, and writing **clean, maintainable code**.  
-
----
-
-## 🛠️ Skills & Technologies
-
-**Languages & Frameworks**  
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-
-**Databases**  
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![Entity Framework Core](https://img.shields.io/badge/EF%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-
-**Tools & Platforms**  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=white)
-
----
-
-## 📂 Featured Projects
-
-| Project | Description | Tech Stack | Status |
-|---------|-------------|------------|--------|
-| **Gym Management System** | MVC web app to manage gym members, subscriptions, and schedules. | C#, .NET MVC, SQL Server | ✅ Completed |
-| **E-Commerce API** | Backend API for online store, includes products, orders, and users. | C#, .NET Web API, EF Core | ⚙️ In Progress |
-| **Library Management System** | Console application to manage books, members, and transactions. | C#, EF Core, Console App | ✅ Completed |
-| **Instant Money Transfers 24/7** | Web app similar to InstaPay Egypt for instant bank transfers and account management. | C#, .NET MVC, SQL Server | ✅ Completed |
-| **AI Feature Selection** | Genetic Algorithm project for selecting features to train decision trees. | Python, DEAP, AI | ✅ Completed |
-
-> More projects: [GitHub Repositories](https://github.com/abd3lr7man7aron182)
-
----
-
-## 📈 GitHub Stats
-
-![Abdelrhman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abd3lr7man7aron182&show_icons=true&theme=radical&count_private=true)
-
----
-
-## 🖥️ Most Used Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abd3lr7man7aron182&layout=compact&theme=radical)
-
----
-
-## 🎯 Fun Animated Section
-
+<!-- Profile Header -->
 <p align="center">
-  <img src="https://github.com/abd3lr7man7aron182/abd3lr7man7aron182/blob/main/animations/coding-cat.gif" width="200" />
-  <img src="https://github.com/abd3lr7man7aron182/abd3lr7man7aron182/blob/main/animations/rocket.gif" width="200" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&weight=600&size=30&duration=3000&pause=1200&color=1E90FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Abdelrhman+Haron;Backend+Developer+(.NET+%7C+C%23);AI+%26+Web+Apps+Enthusiast;Welcome+to+my+GitHub+Profile!+🚀" />
 </p>
 
-> Keep coding 🚀 and exploring AI 🤖
+---
+
+## 👨‍💻 About Me
+I'm a passionate **Backend Developer** specializing in **.NET, C#, and scalable web applications**.  
+I love building clean, maintainable systems and exploring **AI, cloud, and modern software architecture**.
+
+- 🔭 Currently learning **Advanced .NET, MVC, EF Core, and Clean Architecture**  
+- 🤖 Interested in **AI/ML**, automation, and intelligent applications  
+- 📚 Always improving software engineering principles & best practices  
+- 🚀 Building real systems — not just assignments  
+- 📫 Reach me: **abdelrhman.haron@example.com** (change to your email)
 
 ---
 
-## 📫 Connect with Me
+## 🛠️ Tech Stack
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF69B4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://abd3lr7man7aron182.github.io/portfolio)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abd3lr7man7aron182@example.com)
+### **Languages**
+<p>
+  <img src="https://skillicons.dev/icons?i=cs,cpp,python,js" />
+</p>
+
+### **Frameworks & Tools**
+<p>
+  <img src="https://skillicons.dev/icons?i=dotnet,react,html,css,bootstrap" />
+</p>
+
+### **Databases**
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
+</p>
+
+### **DevOps & Cloud**
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,azure,github,git" />
+</p>
 
 ---
 
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+## 📊 GitHub Stats & Analytics
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=abdelrhmanharon&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdelrhmanharon&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## ⚡ GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdelrhmanharon&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 📌 **Backend Projects**
+- 🔹 **Instant Money Transfer System (InstaPay-like App)**  
+  Real APIs, banking workflow, multi-bank accounts, high-security system.
+
+- 🔹 **Bookstore System – Full Stack**  
+  Filters, payments, clean frontend, and system analysis diagrams.
+
+### 📌 **Data Structures & Algorithms**
+- Trees, BST, AVL  
+- Linked lists, stacks, queues  
+- Sorting, hashing, searching  
+
+---
+
+## 💬 Contact Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/YOUR-LINK"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="mailto:YOUR-EMAIL"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+  <a href="https://github.com/abdelrhmanharon"><img src="https://skillicons.dev/icons?i=github" /></a>
+</p>
+
+---
+
+<p align="center">⭐ If you like my work, consider giving my repositories a star! ⭐</p>
