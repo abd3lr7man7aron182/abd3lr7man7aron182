@@ -1,99 +1,87 @@
-<!-- Profile Header -->
+<!-- Header Section -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&weight=600&size=30&duration=3000&pause=1200&color=1E90FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Abdelrhman+Haron;Backend+Developer+(.NET+%7C+C%23);AI+%26+Web+Apps+Enthusiast;Welcome+to+my+GitHub+Profile!+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&weight=700&size=30&duration=3000&pause=1200&color=1E90FF&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Abdelrhman+Haron+👋;Backend+.NET+Developer;C%23+%7C+ASP.NET+%7C+SQL+Server;AI+%26+Web+Apps+Enthusiast;Welcome+to+my+GitHub+Profile+🚀" />
+</p>
+
+<!-- Badges -->
+<p align="center">
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Backend_Developer-000000?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
 ---
 
-## 👨‍💻 About Me
-I'm a **Backend Developer** specializing in **.NET, C#, MVC, Web API, and SQL Server**.  
-I focus on building **scalable, clean, and maintainable applications** and love exploring **AI/ML** and modern backend engineering.
+# 💡 About Me  
+I'm **Abdelrhman Haron**, a passionate **Backend .NET Developer** who enjoys building **scalable web applications**, solving backend challenges, and continuously learning new technologies — especially **AI, machine learning, and system design**.
 
-- 🔭 Currently learning **Advanced .NET, Clean Architecture, Design Patterns**
-- 🤖 Worked on **Genetic Algorithm AI for Feature Selection**
-- 🧩 Strong in **Data Structures, Algorithms & System Analysis**
-- 📚 Always improving software engineering principles & real project architecture
-- 🚀 I build **real systems**, not just academic assignments
-- 📫 Contact me: **abd3lr7man7aron182@gmail.com** (replace with your real email)
+🎯 **What I’m currently focusing on:**
+- Mastering **ASP.NET Core MVC & Web APIs**
+- Building real projects (.NET + SQL Server)
+- Learning **AI/ML fundamentals**
+- Improving my software engineering & documentation skills
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Skills & Technologies
 
-### **Languages**
-<p>
-  <img src="https://skillicons.dev/icons?i=cs,cpp,python,js" />
-</p>
-
-### **Frameworks & Tools**
-<p>
-  <img src="https://skillicons.dev/icons?i=dotnet,html,css,bootstrap" />
-  <img src="https://img.shields.io/badge/EF_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black"/>
-</p>
+### **Backend**
+- **C#**, **ASP.NET Core**, **Entity Framework**, **LINQ**, **REST APIs**
 
 ### **Databases**
-<p>
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
-</p>
+- **SQL Server**, Stored Procedures, Functions, Views, Triggers
 
-### **DevOps & Cloud**
-<p>
-  <img src="https://skillicons.dev/icons?i=github,git,docker" />
-</p>
+### **Frontend**
+- HTML, CSS, JavaScript (basics)
+
+### **Tools**
+- Git & GitHub  
+- Visual Studio, VS Code  
+- Postman  
+- Microsoft SQL Server Management Studio
 
 ---
 
-## 📊 GitHub Stats & Analytics
+# 📫 Contact Me  
+You can reach me through:
+
+📧 **Email:** **abdelrhmanharon45@gmail.com**  
+🌐 **Portfolio:** https://abd3lr7man7aron182.github.io/portfolio/  
+🔗 **LinkedIn:** www.linkedin.com/in/abdelrhman-fathy-5441012ab  
+
+---
+
+# 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=abd3lr7man7aron182&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abd3lr7man7aron182&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="160px" src="https://github-readme-stats.vercel.app/api?username=abd3lr7man7aron182&show_icons=true&theme=tokyonight" />
+  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abd3lr7man7aron182&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
 
-## ⚡ GitHub Activity
+# 🚀 Featured Projects
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abd3lr7man7aron182&theme=tokyo-night&hide_border=true" />
-</p>
+### 🔹 **Instant Money Transfers & Bank Accounts 24/7 System**  
+A full backend system inspired by InstaPay Egypt with multi-bank support, instant transfers, and secure authentication.
 
----
+### 🔹 **Bookstore Management System**  
+Frontend + backend (HTML/CSS/JS + SQL Server), including pricing filters, diagrams, DFDs, and use cases.
 
-## 🚀 Featured Projects
-
-### 📌 **Backend Projects**
-- 🔹 **Instant Money Transfer System (InstaPay-like App)**  
-  Full financial workflow: accounts, transfers, transactions, CBE-style logic.
-
-- 🔹 **E-Commerce API**  
-  Products, orders, users, authentication, EF Core, migrations.
-
-- 🔹 **Gym Management System (MVC)**  
-  Members, subscriptions, trainers, schedules — full CRUD + SQL Server.
-
-### 📌 **AI & Algorithms**
-- 🔹 **AI Feature Selection (Genetic Algorithm + Decision Tree)**  
-  Optimizing datasets for better ML accuracy.
-
-### 📌 **Data Structures & Systems**
-- Trees, BST, AVL  
-- Linked Lists, Stacks, Queues  
-- Sorting, hashing, searching  
-- Real system analysis + DFD + UML class diagrams
+### 🔹 **AI Genetic Algorithm Project**  
+Full GA with decision tree integration, benchmarks, reports, and data processing pipeline.
 
 ---
 
-## 💬 Contact Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINK"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="mailto:abd3lr7man7aron182@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
-  <a href="https://github.com/abd3lr7man7aron182"><img src="https://skillicons.dev/icons?i=github" /></a>
-</p>
+# 🤝 Let’s Build Something Great  
+If you want to collaborate on **.NET projects**, backend APIs, system design, or AI tools — feel free to reach out!
 
 ---
 
-<p align="center">⭐ If you like my work, consider giving my repositories a star! ⭐</p>
+If you want, I can also design:
+✅ A matching **GitHub profile banner**  
+✅ Custom **icons**  
+✅ Project section with clickable cards  
+✅ A more advanced, animated README with dark/light mode  
+
+Just tell me!
