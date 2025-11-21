@@ -40,6 +40,16 @@ I focus on building **scalable, clean, and maintainable applications** and love 
   <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
 </p>
 
+<p>
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
+
+  <!-- NoSQL Databases -->
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Redis-D92D2C?style=for-the-badge&logo=redis&logoColor=white"/>
+</p>
+
+
 ### **Tools & Platforms**
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio" />
