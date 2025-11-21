@@ -101,7 +101,7 @@ I focus on building **scalable, clean, and maintainable applications** and love 
   <a href="https://www.linkedin.com/in/abdelrhman-fathy-5441012ab"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
   <a href="mailto:abdelrhmanharon45@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
   <a href="https://abd3lr7man7aron182.github.io/portfolio/"><img src="https://skillicons.dev/icons?i=webflow" /></a>
-  <a href="https://github.com/abd3lr7man7aron182"><img src="https://skillicons.dev/icons?i=github" /></a>
+  
 </p>
 
 ---
