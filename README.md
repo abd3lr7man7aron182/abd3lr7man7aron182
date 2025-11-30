@@ -1,4 +1,5 @@
 <!-- Profile Header -->
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&weight=600&size=30&duration=3000&pause=1200&color=1E90FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Abdelrhman+Haron;Backend+Developer+(.NET+%7C+C%23);Welcome+to+my+GitHub+Profile!+🚀" />
 </p>
@@ -6,28 +7,31 @@
 ---
 
 ## 👨‍💻 About Me
-I'm a **Backend Developer** specializing in **.NET, C#, MVC, Web API, and SQL Server**.  
+
+I'm a **Backend Developer** specializing in **.NET, C#, MVC, Web API, and SQL Server**.
 I focus on building **scalable, clean, and maintainable applications** and love exploring **AI/ML**, algorithms, and modern backend engineering.
 
-- 🌱 **IMPO Fact:** I'm Muslim  
-- 👨‍💻 **I'm a CS student**, always learning and exploring new technologies  
-- 🔭 Currently learning **Advanced .NET, Clean Architecture, Design Patterns**
-- 🤖 Worked on **Genetic Algorithm AI for Feature Selection**
-- 🧩 Strong in **Data Structures, Algorithms & System Analysis**
-- 📚 Always improving software engineering principles & real project architecture
-- 🚀 I build **real systems**, not just academic assignments
-- 📫 Contact me: **abdelrhmanharon45@gmail.com**
+* 🌱 **IMPO Fact:** I'm Muslim
+* 👨‍💻 **I'm a CS student**, always learning and exploring new technologies
+* 🔭 Currently learning **Advanced .NET, Clean Architecture, Design Patterns**
+* 🤖 Worked on **Genetic Algorithm AI for Feature Selection**
+* 🧩 Strong in **Data Structures, Algorithms & System Analysis**
+* 📚 Always improving software engineering principles & real project architecture
+* 🚀 I build **real systems**, not just academic assignments
+* 📫 Contact me: **[abdelrhmanharon45@gmail.com](mailto:abdelrhmanharon45@gmail.com)**
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### **Languages**
+
 <p>
   <img src="https://skillicons.dev/icons?i=cs,cpp,python,js" />
 </p>
 
 ### **Frameworks & Tools**
+
 <p>
   <img src="https://skillicons.dev/icons?i=dotnet,html,css,bootstrap" />
   <img src="https://img.shields.io/badge/EF_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
@@ -36,17 +40,24 @@ I focus on building **scalable, clean, and maintainable applications** and love 
 </p>
 
 ### **Databases**
+
 <p>
   <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
-
-  <!-- NoSQL Databases -->
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
   <img src="https://img.shields.io/badge/Redis-D92D2C?style=for-the-badge&logo=redis&logoColor=white"/>
 </p>
 
+### **AI / ML Tools**
+
+<p>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+</p>
 
 ### **Tools & Platforms**
+
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio" />
   <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black"/>
@@ -74,24 +85,27 @@ I focus on building **scalable, clean, and maintainable applications** and love 
 ## 🚀 Featured Projects
 
 ### 📌 **Backend Projects**
-- 🔹 **Instant Money Transfer System (InstaPay-like App)**  
+
+* 🔹 **Instant Money Transfer System (InstaPay-like App)**
   Full financial workflow: accounts, transfers, transactions, CBE-style logic.
 
-- 🔹 **E-Commerce API**  
+* 🔹 **E-Commerce API**
   Products, orders, users, authentication, EF Core, migrations.
 
-- 🔹 **Gym Management System (MVC)**  
+* 🔹 **Gym Management System (MVC)**
   Members, subscriptions, trainers, schedules — full CRUD + SQL Server.
 
 ### 📌 **AI & Algorithms**
-- 🔹 **AI Feature Selection (Genetic Algorithm + Decision Tree)**  
+
+* 🔹 **AI Feature Selection (Genetic Algorithm + Decision Tree)**
   Optimizing datasets for better ML accuracy.
 
 ### 📌 **Data Structures & Systems**
-- Trees, BST, AVL  
-- Linked Lists, Stacks, Queues  
-- Sorting, hashing, searching  
-- Real system analysis + DFD + UML class diagrams
+
+* Trees, BST, AVL
+* Linked Lists, Stacks, Queues
+* Sorting, hashing, searching
+* Real system analysis + DFD + UML class diagrams
 
 ---
 
@@ -101,7 +115,6 @@ I focus on building **scalable, clean, and maintainable applications** and love 
   <a href="https://www.linkedin.com/in/abdelrhman-fathy-5441012ab"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
   <a href="mailto:abdelrhmanharon45@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
   <a href="https://abd3lr7man7aron182.github.io/portfolio/"><img src="https://skillicons.dev/icons?i=webflow" /></a>
-  
 </p>
 
 ---
