@@ -7,15 +7,13 @@
 
 ## 👨‍💻 About Me
 I'm a **Backend Developer** specializing in **.NET, C#, MVC, Web API, and SQL Server**.  
-I focus on building **scalable, clean, and maintainable applications** and love exploring **AI/ML**, algorithms, and modern backend engineering.
+I focus on building **scalable, clean, and high-quality applications**, and I'm passionate about **Machine Learning**, system design, and backend engineering.
 
-- 🌱 **IMPO Fact:** I'm Muslim  
-- 👨‍💻 **I'm a CS student**, always learning and exploring new technologies  
-- 🔭 Currently learning **Advanced .NET, Clean Architecture, Design Patterns**
-- 🤖 Worked on **Genetic Algorithm AI for Feature Selection**
-- 🧩 Strong in **Data Structures, Algorithms & System Analysis**
-- 📚 Always improving software engineering principles & real project architecture
-- 🚀 I build **real systems**, not just academic assignments
+- 🎓 **CS Student** always exploring new technologies  
+- 🔭 Currently learning **Advanced .NET, Clean Architecture & Design Patterns**  
+- 🤖 Experience with **Genetic Algorithm AI for Feature Selection**  
+- 🧩 Strong foundation in **Data Structures, Algorithms & System Analysis**  
+- 🚀 I build **real, production-level systems**, not just academic examples  
 - 📫 Contact me: **abdelrhmanharon45@gmail.com**
 
 ---
@@ -38,13 +36,10 @@ I focus on building **scalable, clean, and maintainable applications** and love 
 ### **Databases**
 <p>
   <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
-
-  <!-- NoSQL Databases -->
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
   <img src="https://img.shields.io/badge/Redis-D92D2C?style=for-the-badge&logo=redis&logoColor=white"/>
 </p>
-
 
 ### **Tools & Platforms**
 <p>
@@ -64,7 +59,6 @@ I focus on building **scalable, clean, and maintainable applications** and love 
 ---
 
 ## ⚡ GitHub Activity
-
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=abd3lr7man7aron182&theme=tokyo-night&hide_border=true" />
 </p>
@@ -74,36 +68,34 @@ I focus on building **scalable, clean, and maintainable applications** and love 
 ## 🚀 Featured Projects
 
 ### 📌 **Backend Projects**
-- 🔹 **Instant Money Transfer System (InstaPay-like App)**  
-  Full financial workflow: accounts, transfers, transactions, CBE-style logic.
+- 🔹 **Instant Money Transfer System (InstaPay-like)**  
+  Full workflow: multi-bank accounts, transfers, transactions, CBE-style rules.
 
 - 🔹 **E-Commerce API**  
-  Products, orders, users, authentication, EF Core, migrations.
+  Products, orders, authentication, EF Core, migrations.
 
 - 🔹 **Gym Management System (MVC)**  
-  Members, subscriptions, trainers, schedules — full CRUD + SQL Server.
+  Members, subscriptions, schedules — full CRUD + SQL Server.
 
 ### 📌 **AI & Algorithms**
-- 🔹 **AI Feature Selection (Genetic Algorithm + Decision Tree)**  
-  Optimizing datasets for better ML accuracy.
+- 🔹 **Feature Selection AI (Genetic Algorithm + Decision Tree)**  
+  Improving dataset accuracy using evolutionary optimization.
 
 ### 📌 **Data Structures & Systems**
-- Trees, BST, AVL  
+- BST, AVL, Trees  
 - Linked Lists, Stacks, Queues  
-- Sorting, hashing, searching  
-- Real system analysis + DFD + UML class diagrams
+- Sorting, Hashing, Searching  
+- System Analysis: DFD + UML + use cases + class diagrams
 
 ---
 
 ## 💬 Contact Me
-
 <p align="center">
   <a href="https://www.linkedin.com/in/abdelrhman-fathy-5441012ab"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
   <a href="mailto:abdelrhmanharon45@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
   <a href="https://abd3lr7man7aron182.github.io/portfolio/"><img src="https://skillicons.dev/icons?i=webflow" /></a>
-  
 </p>
 
 ---
 
-<p align="center">⭐ If you like my work, consider giving my repositories a star! ⭐</p>
+<p align="center">⭐ If you like my work, feel free to star the repositories! ⭐</p>
