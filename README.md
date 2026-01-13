@@ -1,123 +1,125 @@
-<!-- Profile Header -->
+<!-- Professional Profile Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&weight=600&size=30&duration=3000&pause=1200&color=1E90FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Abdelrhman+Haron;Backend+Developer+(.NET+%7C+C%23);Building+Scalable+Backend+Systems;Welcome+to+my+GitHub+Profile!+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=26&duration=3500&pause=1200&color=2563EB&center=true&vCenter=true&width=700&lines=Abdelrhman+Haron;Backend+Developer+(.NET+%7C+C%23);Designing+Reliable+Backend+Systems" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## Professional Summary
 
-I'm a **Backend Developer** specializing in **.NET, C#, ASP.NET MVC, Web API, and SQL Server**.  
-I focus on building **scalable, clean, and maintainable backend systems** and enjoy working with **algorithms, system design, and AI/ML concepts**.
+Backend Developer with a strong foundation in **.NET, C#, ASP.NET Core, Web APIs, and SQL Server**.  
+Experienced in designing **scalable backend systems**, applying **clean architecture principles**, and building **real-world applications** beyond academic requirements.
 
-- 🌱 **Personal Fact:** Muslim
-- 🎓 **Computer Science Student**
-- 🔭 Currently learning **Advanced .NET, Clean Architecture, Design Patterns**
-- 🤖 Built **AI Feature Selection using Genetic Algorithms**
-- 🧠 Strong in **Data Structures, Algorithms & System Analysis**
-- 📐 Experience with **DFD, UML, and real system modeling**
-- 🚀 I build **real-world systems**, not just academic projects
-- 📫 Reach me at: **[abdelrhmanharon45@gmail.com](mailto:abdelrhmanharon45@gmail.com)**
+Strong understanding of **data structures, algorithms, and system analysis**, with hands-on experience in **AI feature selection** and **backend system modeling**.
 
 ---
 
-## 🛠️ Tech Stack
+## Technical Skills
 
-### 💻 Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=cs,cpp,python,js" />
-</p>
+### Programming Languages
+- C#
+- C++
+- Python
+- JavaScript
 
-### ⚙️ Frameworks & Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=dotnet,html,css,bootstrap" />
-  <img src="https://img.shields.io/badge/Entity_Framework_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-</p>
+### Backend Technologies
+- ASP.NET Core
+- ASP.NET MVC
+- RESTful Web APIs
+- Entity Framework Core
+- LINQ
 
-### 🗄️ Databases
-<p>
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Redis-D92D2C?style=for-the-badge&logo=redis&logoColor=white"/>
-</p>
+### Databases
+- SQL Server
+- MongoDB
+- Redis
+- Firebase
 
-### 🤖 AI / ML Tools
-<p>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-</p>
+### Software Engineering
+- Clean Architecture
+- Design Patterns
+- SOLID Principles
+- UML & DFD
+- System Analysis & Design
 
-### 🧰 Platforms & Dev Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio" />
-  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black"/>
-</p>
+### AI / Data
+- Genetic Algorithms
+- Feature Selection
+- Pandas
+- NumPy
+- Scikit-learn
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=abd3lr7man7aron182&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abd3lr7man7aron182&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+### Tools & Platforms
+- Git & GitHub
+- Postman
+- Swagger
+- Visual Studio
+- VS Code
 
 ---
 
-## ⚡ Contribution Activity
+## Selected Projects
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abd3lr7man7aron182&theme=tokyo-night&hide_border=true" />
-</p>
+### Instant Money Transfer System
+A financial backend system inspired by **InstaPay Egypt**, supporting:
+- Multi-bank account management
+- Instant transfers & transaction tracking
+- Central Bank–style validation rules
+- Secure and scalable backend design
 
----
-
-## 🚀 Featured Projects
-
-### 🔹 Backend Systems
-- **Instant Money Transfer System (InstaPay-like)**
-  - Multi-bank accounts, transfers, transactions
-  - Central Bank–style validation logic
-
-- **E-Commerce REST API**
-  - Authentication, Products, Orders
-  - EF Core, Migrations, SQL Server
-
-- **Gym Management System (ASP.NET MVC)**
-  - Members, subscriptions, trainers
-  - Full CRUD operations
-
-### 🔹 AI & Algorithms
-- **Feature Selection using Genetic Algorithm**
-  - Optimized ML datasets with Decision Trees
-
-### 🔹 Data Structures & System Design
-- Trees, BST, AVL
-- Linked Lists, Stacks, Queues
-- Sorting & Searching
-- System analysis, DFD, UML class diagrams
+**Technologies:** ASP.NET Core, SQL Server, EF Core
 
 ---
 
-## 🌐 Connect With Me
+### E-Commerce REST API
+Backend API for managing:
+- Users & authentication
+- Products & orders
+- Database migrations and validation
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/abdelrhman-fathy-5441012ab">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  <a href="mailto:abdelrhmanharon45@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
-  <a href="https://abd3lr7man7aron182.github.io/portfolio/">
-    <img src="https://skillicons.dev/icons?i=webflow" />
-  </a>
-</p>
+**Technologies:** ASP.NET Web API, EF Core, SQL Server
 
 ---
+
+### Gym Management System
+Full-stack ASP.NET MVC system for:
+- Member & subscription management
+- Trainers & schedules
+- Role-based operations
+
+**Technologies:** ASP.NET MVC, SQL Server
+
+---
+
+### AI Feature Selection System
+Implemented **Genetic Algorithms** combined with **Decision Trees** to improve machine learning accuracy through optimal feature selection.
+
+---
+
+## Computer Science Foundations
+- Data Structures (Linked Lists, Stacks, Queues, Trees, AVL, BST)
+- Sorting & Searching Algorithms
+- Operating Systems Concepts
+- Databases & SQL
+- Software Engineering Methodologies
+
+---
+
+## GitHub Analytics
 
 <p align="center">
-⭐ If you like my work, consider giving my repositories a star! ⭐
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=abd3lr7man7aron182&show_icons=true&theme=default&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abd3lr7man7aron182&layout=compact&theme=default&hide_border=true" />
 </p>
+
+---
+
+## Contact Information
+
+- **Email:** abdelrhmanharon45@gmail.com  
+- **LinkedIn:** https://www.linkedin.com/in/abdelrhman-fathy-5441012ab  
+- **Portfolio:** https://abd3lr7man7aron182.github.io/portfolio/
+
+---
+
+*This profile reflects a focus on backend engineering, system reliability, and professional software development practices.*
