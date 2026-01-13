@@ -36,7 +36,7 @@ I focus on building **scalable, clean, and maintainable applications** and love 
   <img src="https://skillicons.dev/icons?i=dotnet,html,css,bootstrap" />
   <img src="https://img.shields.io/badge/EF_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black"/>
+ 
 </p>
 
 ### **Databases**
