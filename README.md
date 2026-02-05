@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/abd3lr7man7aron182/Abdelrhman-Haron-CV/raw/main/AbdelrhmanHaronCV.pdf">📄 CV</a> •
+  <a href="https://github.com/abd3lr7man7aron182/Abdelrhman-Haron-CV/blob/main/AbdelrhmanHaronCV.pdf">📄 CV</a> •
   <a href="https://www.linkedin.com/in/abdelrhman-haroun">LinkedIn</a> •
   <a href="https://abd3lr7man7aron182.github.io/portfolio/">Portfolio</a>
 </p>
