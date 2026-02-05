@@ -99,13 +99,7 @@ I enjoy working on **real-world systems**, system architecture, and backend logi
 
 ---
 
-## 📊 GitHub Stats & Analytics
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=abd3lr7man7aron182&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abd3lr7man7aron182&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
----
 ## ⚡ GitHub Activity
 
 <p align="center">
