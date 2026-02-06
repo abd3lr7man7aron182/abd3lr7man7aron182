@@ -27,13 +27,7 @@ I enjoy working on **real-world systems**, system architecture, and backend logi
 
 ---
 
-## 📄 CV
 
-<p align="center">
-  <a href="https://github.com/abd3lr7man7aron182/Abdelrhman-Haron-CV/raw/main/AbdelrhmanHaronCV.pdf">
-    <img src="https://img.shields.io/badge/View%20My%20CV-PDF-1E90FF?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
-  </a>
-</p>
 
 ---
 
@@ -99,7 +93,13 @@ I enjoy working on **real-world systems**, system architecture, and backend logi
 
 ---
 
+## 📄 CV
 
+<p align="center">
+  <a href="https://github.com/abd3lr7man7aron182/Abdelrhman-Haron-CV/raw/main/AbdelrhmanHaronCV.pdf">
+    <img src="https://img.shields.io/badge/View%20My%20CV-PDF-1E90FF?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
+  </a>
+</p>
 ## ⚡ GitHub Activity
 
 <p align="center">
