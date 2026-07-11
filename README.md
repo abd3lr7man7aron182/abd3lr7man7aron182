@@ -1,252 +1,264 @@
-<!-- ========================= HEADER ========================= -->
+<div align="center">
 
-<h1 align="center">Hi 👋, I'm Abdelrhman Haron</h1>
+<!-- ============================================================ -->
+<!--                          BANNER                               -->
+<!-- ============================================================ -->
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=900&lines=AI+Engineer;Machine+Learning+%7C+Deep+Learning;Computer+Vision+%7C+Natural+Language+Processing;Building+Production-Ready+AI+Systems;Backend+Development+with+.NET" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a12,50:1a1730,100:0a0a12&height=200&section=header&text=Abdelrhman%20Haron&fontSize=44&fontColor=E8E6FF&fontAlignY=40&desc=AI%20Engineer%20%C2%B7%20Deep%20Learning%20%C2%B7%20Computer%20Vision%20%C2%B7%20Explainable%20AI&descAlignY=60&descSize=16&animation=fadeIn" width="100%"/>
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=abd3lr7man7aron182&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-</p>
+<br/>
 
-<p align="center">
-<a href="https://www.linkedin.com/in/abdelrhman-haroun">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="#">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3200&pause=1100&color=A599FF&center=true&vCenter=true&width=650&lines=Building+explainable%2C+production-grade+AI+systems;DenseNet121+%C2%B7+Grad-CAM+%C2%B7+Multi-label+Diagnosis;Currently%3A+Sunu+AI+%E2%80%94+Chest+X-ray+Disease+Detection" alt="Typing SVG" />
 </a>
 
-<a href="mailto:abdelrhmanharon45@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<br/><br/>
 
-<a href="https://raw.githubusercontent.com/abd3lr7man7aron182/Abdelrhman-Haron-CV/main/AbdelrhmanHaronCV.pdf">
-  <img src="https://img.shields.io/badge/CV-4285F4?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
-</a>
+[![Resume](https://img.shields.io/badge/Resume-E8E6FF?style=flat-square&logo=readdotcv&logoColor=0a0a12)](https://raw.githubusercontent.com/abd3lr7man7aron182/Abdelrhman-Haron-CV/main/AbdelrhmanHaronCV.pdf)
+[![Portfolio](https://img.shields.io/badge/Portfolio-A599FF?style=flat-square&logo=googlechrome&logoColor=0a0a12)](https://abd3lr7man7aron182.github.io/portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdelrhman-haroun)
+[![Email](https://img.shields.io/badge/Email-A599FF?style=flat-square&logo=gmail&logoColor=0a0a12)](mailto:abdelrhmanharon45@gmail.com)
 
-<a href="https://abd3lr7man7aron182.github.io/portfolio/">
-<img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-</p>
+<sub>Cairo, Egypt · Open to AI/ML Engineer & Software Engineer roles</sub>
 
----
+</div>
 
-# 💫 About Me
-
-I'm an **AI Engineer** passionate about building intelligent systems using
-
-- 🤖 Machine Learning
-- 🧠 Deep Learning
-- 👁 Computer Vision
-- 💬 Natural Language Processing
-
-I enjoy taking AI projects from **research to deployment**, combining strong ML knowledge with software engineering best practices.
-
-My experience in **ASP.NET Core** and **Backend Development** allows me to transform machine learning models into scalable real-world applications through APIs and production-ready architectures.
+<br/>
 
 ---
 
-## 🚀 Current Focus
+## About
 
-- 🔬 Computer Vision
-- 🧠 Deep Learning
-- 🤖 Generative AI
-- 📊 MLOps (Learning)
-- ⚙️ Building scalable AI applications with ASP.NET Core
+I'm completing a B.Sc. in Computer Science *(Artificial Intelligence)* at **Helwan University** (2027) and working as a **Machine Learning Intern at DEPI**, where I build and evaluate deep learning systems end-to-end — from architecture selection through interpretability and deployment.
 
----
+My work centers on **Computer Vision and Explainable AI**, with a specific interest in **medical imaging**: models that don't just classify, but generate visual explanations for their predictions. My flagship project, **Sunu AI**, is a multi-label chest X-ray diagnosis system pairing a fine-tuned DenseNet121 with Grad-CAM visual explanations and an LLM-based clinical assistant.
 
-# 🧠 AI & Machine Learning
+As a secondary, deliberate specialization, I engineer backend systems in **ASP.NET Core** — so my models aren't confined to notebooks. This lets me carry a project from research through to a working, deployable product.
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv" />
-</p>
+<br/>
 
-<p align="center">
+| | |
+|---|---|
+| **Location** | Cairo, Egypt |
+| **Education** | B.Sc. Computer Science (AI), Helwan University — Expected 2027 |
+| **Current Role** | Machine Learning Intern, DEPI |
+| **Focus** | Deep Learning · Computer Vision · Explainable AI · NLP |
+| **Secondary Stack** | ASP.NET Core · REST APIs · Clean Architecture |
+| **Now Building** | Sunu AI — explainable chest X-ray diagnosis system |
 
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
-
-</p>
+<br/>
 
 ---
 
-# 👁 Computer Vision
+## Currently
 
-- CNNs
-- DenseNet121
-- Transfer Learning
-- Image Classification
-- Explainable AI (Grad-CAM)
-- Medical Image Analysis
+- **Sunu AI** *(ongoing)* — refining the DenseNet121 pipeline and preparing a research write-up for conference-style submission
+- **YOLOv10n vs. YOLOv11n** — a controlled, reproducible object-tracking benchmark with ByteTrack
+- **LLM Engineering** *(ongoing)* — building foundations in RAG, agentic workflows, and vector databases as the next specialization
+- **Publication** *(ongoing)* — turning Sunu AI's graduation defense into a formal research poster
 
----
-
-# 💬 NLP
-
-- Transformers
-- LSTM
-- Attention Mechanisms
-- Neural Machine Translation
-- Text Processing
-- Tokenization
-- Embeddings
+<br/>
 
 ---
 
-# ⚙ Backend Development
+## Expertise
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,vscode,git,github,postgres" />
-</p>
+**Deep Learning & Computer Vision**
 
-- ASP.NET Core
-- ASP.NET MVC
-- REST APIs
-- Entity Framework Core
-- SQL Server
-- JWT Authentication
-- Repository Pattern
-- SOLID Principles
-- Dependency Injection
+`PyTorch` `CNNs` `DenseNet121` `Transfer Learning` `OpenCV` `Grad-CAM / Explainable AI` `Medical Image Analysis` `Multi-label Classification`
 
----
+**NLP & Sequence Modeling**
 
-# 🚀 Featured Projects
+`Transformers` `LSTM` `Bahdanau Attention` `Embeddings (CBOW, FastText)` `Neural Machine Translation`
 
-## 🩻 Sunu AI
+**Applied ML Tooling**
 
-**Explainable Multi-label Chest X-ray Disease Detection**
+`scikit-learn` `Pandas` `NumPy` `Matplotlib` `MLflow`
 
-- DenseNet121
-- CheXpert Pretrained Model
-- Grad-CAM
-- Google Gemini
-- Streamlit
-- PDF Medical Reports
+**Backend Engineering** *(secondary strength — used to ship AI as real products)*
+
+`ASP.NET Core` `ASP.NET MVC` `EF Core` `REST APIs` `JWT Auth` `Repository Pattern` `SOLID` `Clean Architecture`
+
+**Languages & Data**
+
+`Python` `C#` `C++` `Java` `SQL` `JavaScript` — `SQL Server` `MongoDB` `Redis` `Firebase`
+
+**Tooling**
+
+`Git` `Docker` `Postman` `Swagger` `Google Colab` `VS Code` `Visual Studio`
+
+<br/>
 
 ---
 
-## 🌍 Neural Machine Translation
+## Featured Work
 
-English → German Translation
+<table>
+<tr>
+<td width="50%" valign="top">
 
-- Seq2Seq
-- Bahdanau Attention
-- LSTM
-- BLEU Evaluation
-- PyTorch
+### Sunu AI *(ongoing)*
+**Explainable multi-label chest X-ray diagnosis system**
 
----
+DenseNet121 (CheXpert-pretrained) fine-tuned and evaluated on **NIH ChestX-ray14** (112,120 images) for multi-label disease classification, with **Grad-CAM** interpretability, a **Gemini 2.5 Flash**-powered clinical Q&A assistant, and automated PDF reporting via Streamlit.
 
-## 👕 Fashion-MNIST Classification
+**Result:** mean AUROC **0.8176** across 14 pathologies — 0.916 on the strongest class (Pleural Other).
 
-- VGG16
-- VGG19
-- Transfer Learning
-- Performance Comparison
+`DenseNet121` `Grad-CAM` `Gemini API` `Streamlit` `MLflow`
 
----
+</td>
+<td width="50%" valign="top">
 
-## 🧬 Feature Selection using Genetic Algorithms
+### YOLOv10n vs. YOLOv11n
+**Real-time object tracking benchmark**
 
-- Genetic Algorithms
-- Decision Trees
-- Feature Optimization
+A controlled comparison of YOLOv10n and YOLOv11n under **ByteTrack**, built for methodological fairness: shared GPU warm-up protocol, **P95 latency** reporting, and structured, reproducible output artifacts.
 
----
+**Result:** a reusable benchmarking harness for apples-to-apples detector comparisons.
 
-## 💳 Instant Money Transfer System
+`YOLOv10n` `YOLOv11n` `ByteTrack` `Google Colab`
 
-- ASP.NET Core
-- SQL Server
-- JWT Authentication
-- Banking Workflow Simulation
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
----
+### English → German NMT
+**Sequence-to-sequence translation with attention**
 
-## 🛒 E-Commerce REST API
+A from-scratch Seq2Seq architecture with **Bahdanau attention** on the Multi30k dataset, benchmarking **CBOW vs. FastText** embeddings for translation quality.
 
-- ASP.NET Core
-- EF Core
-- Repository Pattern
-- Authentication
-- Authorization
+`PyTorch` `Seq2Seq` `Attention` `LSTM`
 
----
+</td>
+<td width="50%" valign="top">
 
-# 📈 GitHub Statistics
+### VGG16 vs. VGG19
+**Transfer learning comparison on Fashion-MNIST**
 
-<p align="center">
+A controlled study isolating architecture depth as a variable, comparing VGG16 and VGG19 under identical transfer-learning conditions.
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=abd3lr7man7aron182&show_icons=true&theme=tokyonight&hide_border=true"/>
+`VGG16` `VGG19` `Transfer Learning`
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abd3lr7man7aron182&layout=compact&theme=tokyonight&hide_border=true"/>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-</p>
+### Instant Money Transfer API
+**Secure financial transaction backend**
 
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=abd3lr7man7aron182&theme=tokyonight&hide_border=true"/>
-</p>
+A transactional backend for real-time money transfers with **JWT authentication** and data integrity guarantees, built on ASP.NET Core and SQL Server.
 
----
+`ASP.NET Core` `JWT` `SQL Server`
 
-# 🏆 GitHub Trophies
+</td>
+<td width="50%" valign="top">
 
-<p align="center">
+### E-Commerce API
+**Clean-architecture backend system**
 
-<img src="https://github-profile-trophy.vercel.app/?username=abd3lr7man7aron182&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15"/>
+A modular backend applying the **Repository Pattern**, **EF Core**, and dependency injection under SOLID principles.
 
-</p>
+`ASP.NET Core` `Repository Pattern` `EF Core`
 
----
+</td>
+</tr>
+</table>
 
-# 📊 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=abd3lr7man7aron182&theme=tokyo-night&hide_border=true"/>
-
-</p>
+<br/>
 
 ---
 
-# 🛠 Languages & Tools
+## GitHub Activity
 
-<p align="center">
+<div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,cpp,java,cs,dotnet,tensorflow,pytorch,opencv,git,github,docker,mongodb,redis,mysql,sqlite,linux,postman,vscode,visualstudio"/>
+<img src="https://github-readme-stats.vercel.app/api?username=abd3lr7man7aron182&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0a12&title_color=A599FF&icon_color=A599FF&text_color=c9d1d9" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abd3lr7man7aron182&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0a12&title_color=A599FF&text_color=c9d1d9" width="41%"/>
 
-</p>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=abd3lr7man7aron182&theme=react-dark&hide_border=true&bg_color=0a0a12&color=A599FF&line=A599FF&point=E8E6FF" width="100%"/>
 
----
+</div>
 
-# 🌍 Connect with Me
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/abdelrhman-haroun">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-<a href="mailto:abdelrhmanharon45@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
-
-<a href="https://abd3lr7man7aron182.github.io/portfolio/">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
-</a>
-
-</p>
+<br/>
 
 ---
 
-<p align="center">
+## Certifications
 
-> *"Turning AI research into real-world intelligent applications."*
+- **Digital Egypt Pioneers Initiative (DEPI)** — Machine Learning Program
+- **Route Academy** — Backend Development Internship (.NET)
 
-</p>
+<br/>
+
+---
+
+## Timeline
+
+```
+2023   Started B.Sc. Computer Science (AI), Helwan University
+2024   Backend internship @ Route Academy — ASP.NET Core
+       Built English→German NMT (Seq2Seq + Bahdanau Attention)
+       VGG16 vs. VGG19 transfer learning comparison
+2025   Machine Learning Program @ DEPI
+       Designed & built Sunu AI (DenseNet121 + Grad-CAM + Gemini)
+       YOLOv10n vs. YOLOv11n tracking benchmark
+2026   Graduation defense — Sunu AI
+       Preparing research poster for conference submission (ongoing)
+2027   Expected graduation — pursuing full-time AI Engineer roles
+```
+
+<br/>
+
+---
+
+## Learning Roadmap
+
+| Status | Area |
+|---|---|
+| ✅ Done | Deep Learning foundations |
+| ✅ Done | Computer Vision & CNN architectures |
+| ✅ Done | Explainable AI (Grad-CAM) |
+| 🔄 In progress | LLMs, RAG, prompt & context engineering |
+| ⏭ Next | AI agents & vector databases |
+
+<br/>
+
+---
+
+## Research Interests
+
+Explainable AI (XAI) · Medical Image Analysis · Multi-label Classification · Model Interpretability · Retrieval-Augmented Generation · Real-Time Object Tracking
+
+<br/>
+
+---
+
+<div align="center">
+
+*"A model that can't explain itself is harder to trust — I build for interpretability alongside accuracy."*
+
+</div>
+
+<br/>
+
+---
+
+## Contact
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdelrhman-haroun)
+[![Email](https://img.shields.io/badge/Email-A599FF?style=flat-square&logo=gmail&logoColor=0a0a12)](mailto:abdelrhmanharon45@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/abd3lr7man7aron182)
+[![Portfolio](https://img.shields.io/badge/Portfolio-A599FF?style=flat-square&logo=googlechrome&logoColor=0a0a12)](https://abd3lr7man7aron182.github.io/portfolio/)
+
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1730,50:1a1730,100:0a0a12&height=100&section=footer" width="100%"/>
+<sub>Abdelrhman Haron — AI Engineer specializing in Deep Learning, Computer Vision & Explainable AI</sub>
+</div>
