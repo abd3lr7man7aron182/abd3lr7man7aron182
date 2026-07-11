@@ -19,8 +19,8 @@
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://github.com/abd3lr7man7aron182/Abdelrhman-Haron-CV/raw/main/AbdelrhmanHaronCV.pdf">
-<img src="https://img.shields.io/badge/CV-4285F4?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
+<a href="https://raw.githubusercontent.com/abd3lr7man7aron182/Abdelrhman-Haron-CV/main/AbdelrhmanHaronCV.pdf">
+  <img src="https://img.shields.io/badge/CV-4285F4?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
 </a>
 
 <a href="https://abd3lr7man7aron182.github.io/portfolio/">
