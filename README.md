@@ -60,37 +60,131 @@ As a secondary, deliberate specialization, I engineer backend systems in **ASP.N
 <br/>
 
 ---
+## 🛠️ Technical Skills
 
-## Expertise
+### 💻 Programming Languages
 
-**Deep Learning & Computer Vision**
-
-`PyTorch` `CNNs` `DenseNet121` `Transfer Learning` `OpenCV` `Grad-CAM / Explainable AI` `Medical Image Analysis` `Multi-label Classification`
-
-**NLP & Sequence Modeling**
-
-`Transformers` `LSTM` `Bahdanau Attention` `Embeddings (CBOW, FastText)` `Neural Machine Translation`
-
-**Applied ML Tooling**
-
-`scikit-learn` `Pandas` `NumPy` `Matplotlib` `MLflow`
-
-**Backend Engineering** *(secondary strength — used to ship AI as real products)*
-
-`ASP.NET Core` `ASP.NET MVC` `EF Core` `REST APIs` `JWT Auth` `Repository Pattern` `SOLID` `Clean Architecture`
-
-**Languages & Data**
-
-`Python` `C#` `C++` `Java` `SQL` `JavaScript` — `SQL Server` `MongoDB` `Redis` `Firebase`
-
-**Tooling**
-
-`Git` `Docker` `Postman` `Swagger` `Google Colab` `VS Code` `Visual Studio`
-
-<br/>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,cs,cpp,java,js,mysql" />
+</p>
 
 ---
 
+### 🤖 AI • Machine Learning • Deep Learning
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" />
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge"/>
+
+</p>
+
+---
+
+### 👁 Computer Vision
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/DenseNet121-4B0082?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/CNN-0A66C2?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Transfer_Learning-6A5ACD?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/GradCAM-8A2BE2?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Medical_Imaging-483D8B?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Multi_Label_Classification-6C63FF?style=for-the-badge"/>
+
+</p>
+
+---
+
+### 💬 Natural Language Processing
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Transformers-FF9800?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/LSTM-1E88E5?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Bahdanau_Attention-3949AB?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/FastText-009688?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/CBOW-7B1FA2?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Embeddings-5E35B1?style=for-the-badge"/>
+
+</p>
+
+---
+
+### ⚙️ Backend Development
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=dotnet,visualstudio" />
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Entity_Framework_Core-512BD4?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Clean_Architecture-5E35B1?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/SOLID-0A66C2?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Repository_Pattern-3949AB?style=for-the-badge"/>
+
+</p>
+
+---
+
+### 🗄 Databases
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,redis,firebase" />
+
+<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+
+</p>
+
+---
+
+### 🛠 Tools
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,visualstudio,postman" />
+
+<img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black"/>
+
+</p>
 ## Featured Work
 
 <table>
