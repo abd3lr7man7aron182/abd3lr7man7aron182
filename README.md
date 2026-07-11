@@ -7,9 +7,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a12,50:1a1730,100:0a0a12&height=200&section=header&text=Abdelrhman%20Haron&fontSize=44&fontColor=E8E6FF&fontAlignY=40&desc=AI%20Engineer%20%C2%B7%20Deep%20Learning%20%C2%B7%20Computer%20Vision%20%C2%B7%20Explainable%20AI&descAlignY=60&descSize=16&animation=fadeIn" width="100%"/>
 
 <br/>
-
-<a href="#">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3200&pause=1100&color=A599FF&center=true&vCenter=true&width=650&lines=Building+explainable%2C+production-grade+AI+systems;DenseNet121+%C2%B7+Grad-CAM+%C2%B7+Multi-label+Diagnosis;Currently%3A+Sunu+AI+%E2%80%94+Chest+X-ray+Disease+Detection" alt="Typing SVG" />
+<a href="https://github.com/abd3lr7man7aron182">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3500&pause=1200&color=A599FF&center=true&vCenter=true&width=700&lines=AI+Engineer;Machine+Learning+%E2%80%A2+Deep+Learning;Computer+Vision+%E2%80%A2+NLP;Building+AI+for+Real-World+Applications" alt="Typing SVG" />
 </a>
 
 <br/><br/>
