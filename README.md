@@ -290,9 +290,9 @@ A modular backend built under SOLID principles with clean separation of concerns
 
 ## Trophies
 
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=abd3lr7man7aron182&theme=algolia&no-frame=true&no-bg=true&row=1&column=6&margin-w=8" width="100%"/>
-</div>
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=abd3lr7man7aron182&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7"/>
+</p>
 
 ## Contribution Snake
 
