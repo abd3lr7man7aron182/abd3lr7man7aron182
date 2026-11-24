@@ -13,7 +13,7 @@
 
 <br/><br/>
 
-[![Resume](https://img.shields.io/badge/Resume-E8E6FF?style=flat-square&logo=readdotcv&logoColor=0a0a12)](https://raw.githubusercontent.com/abd3lr7man7aron182/Abdelrhman-Haron-CV/main/AbdelrhmanHaronCV.pdf)
+[![Resume](https://img.shields.io/badge/Resume-E8E6FF?style=flat-square&logo=readdotcv&logoColor=0a0a12)](https://raw.githubusercontent.com/abd3lr7man7aron182/Abdelrhman-Haron-CV/main/abdelrhman_haron_resume_Latest_V.pdf)
 [![Portfolio](https://img.shields.io/badge/Portfolio-A599FF?style=flat-square&logo=googlechrome&logoColor=0a0a12)](https://abd3lr7man7aron182.github.io/portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdelrhman-haroun)
 [![Email](https://img.shields.io/badge/Email-A599FF?style=flat-square&logo=gmail&logoColor=0a0a12)](mailto:abdelrhmanharon45@gmail.com)
